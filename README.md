@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/-nomadicdev.io-111827?style=flat&logo=Google-Chrome&logoColor=white)](https://nomadicdev.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:you@domain.com)
-[![Email](https://img.shields.io/badge/-Instagram-0A66C2?style=flat&logo=gmail&logoColor=white)](https://www.instagram.com/nomadicdev.io/)
+[![Email](https://img.shields.io/badge/-instagram-0A66C2?style=flat&logo=gmail&logoColor=white)](https://www.instagram.com/nomadicdev.io/)
 
 ---
 
