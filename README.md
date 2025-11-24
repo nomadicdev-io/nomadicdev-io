@@ -4,12 +4,13 @@
 [![Website](https://img.shields.io/badge/-nomadicdev.io-111827?style=flat&logo=Google-Chrome&logoColor=white)](https://nomadicdev.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:you@domain.com)
+[![Email](https://img.shields.io/badge/-Instagram-0A66C2?style=flat&logo=gmail&logoColor=white)](https://www.instagram.com/nomadicdev.io/)
 
 ---
 
 ## About
 - 🔭 I’m currently focusing on scalable front-end architectures and mobile app boilerplates.
-- ⚙️ Tech: **TypeScript · React · React Native · Bun.js · Node.js · TypeScript · ElysiaJS · Vite · SCSS · Docker · AWS · CI/CD**
+- ⚙️ Tech: **TypeScript · React · React Native · Bun.js · Node.js · ElysiaJS · Vite · SCSS · Docker · AWS · CI/CD**
 - 💡 I love designing reusable component systems, devtools, and developer-first DX.
 
 ---
