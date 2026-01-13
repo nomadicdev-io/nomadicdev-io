@@ -54,25 +54,13 @@ const nomadicDev = {
 
 ---
 
-## 🛠️ Tech Stack (Vibrant Grid)
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,reactnative,vite,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,nextjs,vite,nodejs,bun,laravel,elysia&theme=dark" /><br/> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,docker,aws,git,githubactions,linux&theme=dark" /><br/> <img src="https://skillicons.dev/icons?i=vercel,nginx,tailwind,sass,figma,jest,vitest,postman,graphql,cloudflare&theme=dark" />
 
-### ⚙️ Backend & Runtime
-
-<img src="https://skillicons.dev/icons?i=nodejs,bun,laravel&theme=dark" />
-
-### 🗄️ Databases & Storage
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
-
-<img src="https://img.shields.io/badge/MinIO-Storage-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
-
-### ☁️ DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions&theme=dark" />
+</div>
 
 ---
 
@@ -92,7 +80,7 @@ Consumer & B2B platforms
 
 ### 🎯 Expertise
 
-**Full-Stack**
+**Full‑Stack**
 Frontend · Backend · DevOps
 
 </td>
@@ -130,7 +118,7 @@ Mentoring & code quality
 <tr>
 <td width="50%">
 
-### 💼 Full-Time
+### 💼 Full‑Time
 
 * Senior / Staff Frontend Engineer
 * Tech Lead
