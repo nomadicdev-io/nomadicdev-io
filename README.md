@@ -2,7 +2,7 @@
 
 <!-- HERO GRID -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,19,20&height=120&section=header&text=NomadicDev&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0&gradientColors=5C5AFF,4CCD99" />
 
 ### 🚀 Senior Software Engineer · 7+ Years Experience
 
