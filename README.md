@@ -74,9 +74,9 @@ const nomadicdev = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomadicdev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev-io&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2)
 
 </div>
 
