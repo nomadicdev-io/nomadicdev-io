@@ -1,218 +1,166 @@
 <div align="center">
 
-# 👋 Hi, I'm NomadicDev
+<!-- HERO GRID -->
 
-### Senior Software Engineer | 7+ Years Experience
-*Building scalable, reliable web & mobile applications*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,19,20&height=120&section=header&text=NomadicDev&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nomadicdev.io-4A90E2?style=for-the-badge)](https://nomadicdev.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanshasalim/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomadicdev.io@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nomadicdev.io/)
+### 🚀 Senior Software Engineer · 7+ Years Experience
 
-</div>
+*Building scalable, high-performance web & mobile products*
 
 <br/>
 
-## 🚀 About Me
+<!-- QUICK LINKS GRID -->
 
-<table>
+<a href="https://nomadicdev.io"><img src="https://img.shields.io/badge/Portfolio-nomadicdev.io-7F5AF0?style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/alanshasalim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nomadicdev.io@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/nomadicdev.io/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 🧩 About Me
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="55%">
 
-```typescript
-const nomadicdev = {
+```ts
+const nomadicDev = {
   location: "Dubai 🇦🇪",
   role: "Senior Software Engineer",
   experience: "7+ years",
-  focus: [
+  specialties: [
     "Scalable Frontend Architecture",
-    "Mobile App Development",
-    "Developer Experience"
+    "Mobile Applications",
+    "Performance & DX",
+    "System Design"
   ]
 };
 ```
 
 </td>
-<td width="50%">
+<td width="45%">
 
-**What I Do:**
-- 🏗️ Build scalable web & mobile apps
-- 👥 Lead teams & mentor developers
-- ⚡ Optimize performance & DX
-- 🛠️ Create reusable systems
+### What I Deliver
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💻 Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+* ⚡ High-performance web & mobile apps
+* 🧠 Architecture & system design
+* 👥 Team leadership & mentoring
+* 🧩 Reusable component systems
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🌟 Key Highlights
+## 🛠️ Tech Stack (Vibrant Grid)
 
-<table>
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=ts,react,reactnative,vite,sass&theme=dark" />
+
+### ⚙️ Backend & Runtime
+
+<img src="https://skillicons.dev/icons?i=nodejs,bun,laravel&theme=dark" />
+
+### 🗄️ Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+
+<img src="https://img.shields.io/badge/MinIO-Storage-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+
+### ☁️ DevOps & Tooling
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions&theme=dark" />
+
+---
+
+## 🌟 Career Snapshot
+
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🏆 Experience
-**7+ Years**
 
-Building consumer & B2B products across multiple industries
+**7+ Years**
+Consumer & B2B platforms
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🎯 Expertise
-**Full-Stack**
 
-Frontend, backend, DevOps, and cloud deployment
+**Full-Stack**
+Frontend · Backend · DevOps
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 👥 Leadership
-**Team Lead**
 
-Code reviews, mentoring, and best practices
+**Team Lead**
+Mentoring & code quality
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=nomadicdev&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomadicdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<br/><br/>
 
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd)
+<img src="https://streak-stats.demolab.com?user=nomadicdev&theme=radical&hide_border=true" width="70%" />
 
 </div>
 
-<br/>
+---
 
 ## 🤝 Open to Opportunities
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 💼 Full-Time Roles
-- Senior/Staff Frontend Engineer
-- Tech Lead positions
-- Engineering Manager roles
+### 💼 Full-Time
+
+* Senior / Staff Frontend Engineer
+* Tech Lead
+* Engineering Manager
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 Contract Work
-- Architecture consulting
-- Performance optimization
-- Developer tools & DX
-- Speaking engagements
+### 🎯 Contract & Consulting
+
+* Architecture reviews
+* Performance optimization
+* Developer tooling & DX
+* Conference speaking
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 📫 Let's Connect
+## 📬 Let’s Connect
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,18,15,14,12&height=80&section=footer&text=Let's%20Build%20Something%20Great&fontSize=26&fontColor=ffffff" />
 
-### 🌐
-**Portfolio**
+<br/>
 
-[nomadicdev.io](https://nomadicdev.io)
-
-</td>
-<td align="center" width="25%">
-
-### 📧
-**Email**
-
-[Contact Me](mailto:nomadicdev.io@gmail.com)
-
-</td>
-<td align="center" width="25%">
-
-### 💼
-**LinkedIn**
-
-[alanshasalim](https://www.linkedin.com/in/alanshasalim/)
-
-</td>
-<td align="center" width="25%">
-
-### 📸
-**Instagram**
-
-[@nomadicdev.io](https://www.instagram.com/nomadicdev.io/)
-
-</td>
-</tr>
-</table>
+<a href="https://nomadicdev.io">🌐 Portfolio</a> · <a href="mailto:nomadicdev.io@gmail.com">📧 Email</a> · <a href="https://www.linkedin.com/in/alanshasalim/">💼 LinkedIn</a> · <a href="https://www.instagram.com/nomadicdev.io/">📸 Instagram</a>
 
 </div>
 
@@ -220,8 +168,8 @@ Code reviews, mentoring, and best practices
 
 <div align="center">
 
-*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+> *"First make it work. Then make it right. Then make it fast."*
 
-⭐️ From [nomadicdev](https://github.com/nomadicdev)
+⭐️ Thanks for visiting — **NomadicDev**
 
 </div>
