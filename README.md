@@ -1,60 +1,109 @@
-# Hi, I’m **NomadicDev** 👋  
-**Senior Software Engineer · 7+ years** — building reliable web & mobile products.
+# 👋 Hi, I'm NomadicDev
 
-[![Website](https://img.shields.io/badge/-nomadicdev.io-111827?style=flat&logo=Google-Chrome&logoColor=white)](https://nomadicdev.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:you@domain.com)
-[![Instagram](https://img.shields.io/badge/-instagram-0A66C2?style=flat&logo=gmail&logoColor=white)](https://www.instagram.com/nomadicdev.io/)
+<div align="center">
+  
+### Senior Software Engineer | 7+ Years Experience
+*Building scalable, reliable web & mobile applications*
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nomadicdev.io-4A90E2?style=for-the-badge)](https://nomadicdev.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanshasalim/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomadicdev.io@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nomadicdev.io/)
 
-## About
-- 🔭 I’m currently focusing on scalable front-end architectures and mobile app boilerplates.
-- ⚙️ Tech: **TypeScript · React · React Native · Bun.js · Node.js · ElysiaJS · Vite · SCSS · Docker · AWS · CI/CD**
-- 💡 I love designing reusable component systems, devtools, and developer-first DX.
-
-### Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/-ElysiaJS-000000?style=flat-square&logo=elysiajs&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![MinIO](https://img.shields.io/badge/-MinIO-FF9900?style=flat-square&logo=minio&logoColor=white)
-![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+</div>
 
 ---
 
-## Highlights
-- 7+ years building consumer & B2B web/mobile products.
-- Experience across frontend, backend, build tools, and deployment.
-- Mentor & code reviewer — focus on maintainable, testable code.
+## 🚀 About Me
+
+I'm a Senior Software Engineer with over 7 years of experience specializing in building scalable consumer and B2B web and mobile applications. I'm passionate about creating maintainable, performant solutions and mentoring developers to write clean, testable code.
+
+```typescript
+const nomadicdev = {
+  location: "Dubai, UAE 🇦🇪",
+  currentFocus: ["Scalable Frontend Architecture", "Mobile App Boilerplates", "DX Engineering"],
+  expertise: ["Full-Stack Development", "Team Leadership", "Code Reviews", "Mentoring"],
+  passions: ["Reusable Component Systems", "Developer Tools", "Performance Optimization"]
+};
+```
+
+## 💻 Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🎯 What I Do
+
+- 🏗️ **Architecture & Design**: Building scalable frontend architectures and reusable component systems
+- 📱 **Full-Stack Development**: End-to-end development from conception to deployment
+- 👥 **Leadership & Mentorship**: Leading teams, conducting code reviews, and mentoring junior developers
+- ⚡ **Performance Optimization**: Creating high-performance, maintainable applications
+- 🛠️ **Developer Experience**: Building tools and workflows that improve developer productivity
+
+## 🌟 Key Highlights
+
+✨ **7+ years** of professional experience in consumer & B2B product development  
+✨ **Full-stack expertise** across frontend, backend, build tools, and cloud deployment  
+✨ **Team leadership** with focus on code quality, testing, and best practices  
+✨ **Open source** contributor and advocate for developer-first solutions  
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev-io&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2)
+
+</div>
+
+## 🤝 Open to Opportunities
+
+I'm currently open to:
+
+- 💼 Senior/Staff Frontend Engineering and Tech Lead roles
+- 🎯 Contract work on devtools, architecture, or performance optimization
+- 🎤 Speaking engagements on frontend performance and developer experience
+- 🤝 Consulting on scalable application architecture
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations, opportunities, or just to chat about tech!
+
+- 🌐 **Portfolio**: [nomadicdev.io](https://nomadicdev.io)
+- 📧 **Email**: [nomadicdev.io@gmail.com](mailto:nomadicdev.io@gmail.com)
+- 💼 **LinkedIn**: [alanshasalim](https://www.linkedin.com/in/alanshasalim/)
+- 📸 **Instagram**: [@nomadicdev.io](https://www.instagram.com/nomadicdev.io/)
 
 ---
 
-## Open to
-- Senior/frontend engineering and tech lead roles
-- Freelance/contract devtools or architecture work
-- Speaking about frontend performance & developer experience
+<div align="center">
+  
+### 💭 *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
 
----
+⭐️ From [nomadicdev-io](https://github.com/nomadicdev-io)
 
-## Contact
-- Website: https://nomadicdev.io  
-- Email: nomadicdev.io@gmail.com  
-- LinkedIn: [alanshasalim](https://www.linkedin.com/in/alanshasalim/)
-- Instagram: [@nomadicdev.io](https://www.instagram.com/nomadicdev.io/)
-
----
+</div>
