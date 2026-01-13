@@ -1,56 +1,38 @@
 <div align="center">
 
-<!-- HERO GRID -->
+<!-- FUTURISTIC HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0&gradientColors=5C5AFF,4CCD99" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=NomadicDev&fontSize=44&fontColor=ffffff&animation=fadeIn&gradientColors=5C5AFF,4CCD99" />
 
-### 🚀 Senior Software Engineer · 7+ Years Experience
+<h3>Senior Software Engineer · Full-Stack · Tech Lead</h3>
+<p><i>Building scalable, high-performance web & mobile systems</i></p>
 
-*Building scalable, high-performance web & mobile products*
-
-<br/>
-
-<!-- QUICK LINKS GRID -->
-
-<a href="https://nomadicdev.io"><img src="https://img.shields.io/badge/Portfolio-nomadicdev.io-7F5AF0?style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/alanshasalim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nomadicdev.io@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/nomadicdev.io/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://nomadicdev.io"><img src="https://img.shields.io/badge/Portfolio-nomadicdev.io-5C5AFF?style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/alanshasalim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nomadicdev.io@gmail.com"><img src="https://img.shields.io/badge/Email-4CCD99?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/nomadicdev.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🧩 About Me
-
-<table width="100%">
-<tr>
-<td width="55%">
+## 🧠 About Me
 
 ```ts
 const nomadicDev = {
   location: "Dubai 🇦🇪",
   role: "Senior Software Engineer",
   experience: "7+ years",
-  specialties: [
+  focus: [
     "Scalable Frontend Architecture",
     "Mobile Applications",
-    "Performance & DX",
-    "System Design"
+    "System Design",
+    "Performance & DX"
   ]
 };
 ```
 
-</td>
-<td width="45%">
-
-### What I Deliver
-
-* ⚡ High-performance web & mobile apps
-* 🧠 Architecture & system design
-* 👥 Team leadership & mentoring
-* 🧩 Reusable component systems
-
-</td>
-</tr>
-</table>
+* ⚡ Architecting scalable frontend & backend systems
+* 🧩 Designing reusable component & design systems
+* 👥 Leading teams, mentoring engineers
+* ☁️ Shipping products to cloud & edge
 
 ---
 
@@ -64,7 +46,7 @@ const nomadicDev = {
 
 ---
 
-## 🌟 Career Snapshot
+## 🌌 Career Highlights
 
 <table width="100%">
 <tr>
@@ -73,14 +55,14 @@ const nomadicDev = {
 ### 🏆 Experience
 
 **7+ Years**
-Consumer & B2B platforms
+Consumer & B2B products
 
 </td>
 <td align="center" width="33%">
 
 ### 🎯 Expertise
 
-**Full‑Stack**
+**Full-Stack**
 Frontend · Backend · DevOps
 
 </td>
@@ -88,8 +70,8 @@ Frontend · Backend · DevOps
 
 ### 👥 Leadership
 
-**Team Lead**
-Mentoring & code quality
+**Tech Lead**
+Mentorship & best practices
 
 </td>
 </tr>
@@ -97,7 +79,7 @@ Mentoring & code quality
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -118,7 +100,7 @@ Mentoring & code quality
 <tr>
 <td width="50%">
 
-### 💼 Full‑Time
+### 💼 Full-Time
 
 * Senior / Staff Frontend Engineer
 * Tech Lead
@@ -129,35 +111,7 @@ Mentoring & code quality
 
 ### 🎯 Contract & Consulting
 
-* Architecture reviews
+* Architecture consulting
 * Performance optimization
 * Developer tooling & DX
-* Conference speaking
-
-</td>
-</tr>
-</table>
-
----
-
-## 📬 Let’s Connect
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,18,15,14,12&height=80&section=footer&text=Let's%20Build%20Something%20Great&fontSize=26&fontColor=ffffff" />
-
-<br/>
-
-<a href="https://nomadicdev.io">🌐 Portfolio</a> · <a href="mailto:nomadicdev.io@gmail.com">📧 Email</a> · <a href="https://www.linkedin.com/in/alanshasalim/">💼 LinkedIn</a> · <a href="https://www.instagram.com/nomadicdev.io/">📸 Instagram</a>
-
-</div>
-
----
-
-<div align="center">
-
-> *"First make it work. Then make it right. Then make it fast."*
-
-⭐️ Thanks for visiting — **NomadicDev**
-
-</div>
+* Spea
