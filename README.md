@@ -1,7 +1,7 @@
+<div align="center">
+
 # 👋 Hi, I'm NomadicDev
 
-<div align="center">
-  
 ### Senior Software Engineer | 7+ Years Experience
 *Building scalable, reliable web & mobile applications*
 
@@ -12,24 +12,49 @@
 
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
-I'm a Senior Software Engineer with over 7 years of experience specializing in building scalable consumer and B2B web and mobile applications. I'm passionate about creating maintainable, performant solutions and mentoring developers to write clean, testable code.
+<table>
+<tr>
+<td width="50%">
 
 ```typescript
 const nomadicdev = {
-  location: "Dubai, UAE 🇦🇪",
-  currentFocus: ["Scalable Frontend Architecture", "Mobile App Boilerplates", "DX Engineering"],
-  expertise: ["Full-Stack Development", "Team Leadership", "Code Reviews", "Mentoring"],
-  passions: ["Reusable Component Systems", "Developer Tools", "Performance Optimization"]
+  location: "Dubai 🇦🇪",
+  role: "Senior Software Engineer",
+  experience: "7+ years",
+  focus: [
+    "Scalable Frontend Architecture",
+    "Mobile App Development",
+    "Developer Experience"
+  ]
 };
 ```
 
+</td>
+<td width="50%">
+
+**What I Do:**
+- 🏗️ Build scalable web & mobile apps
+- 👥 Lead teams & mentor developers
+- ⚡ Optimize performance & DX
+- 🛠️ Create reusable systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 💻 Tech Stack
 
-### Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -41,6 +66,9 @@ const nomadicdev = {
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### Database & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,55 +83,145 @@ const nomadicdev = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🎯 What I Do
+</td>
+</tr>
+</table>
 
-- 🏗️ **Architecture & Design**: Building scalable frontend architectures and reusable component systems
-- 📱 **Full-Stack Development**: End-to-end development from conception to deployment
-- 👥 **Leadership & Mentorship**: Leading teams, conducting code reviews, and mentoring junior developers
-- ⚡ **Performance Optimization**: Creating high-performance, maintainable applications
-- 🛠️ **Developer Experience**: Building tools and workflows that improve developer productivity
+<br/>
 
 ## 🌟 Key Highlights
 
-✨ **7+ years** of professional experience in consumer & B2B product development  
-✨ **Full-stack expertise** across frontend, backend, build tools, and cloud deployment  
-✨ **Team leadership** with focus on code quality, testing, and best practices  
-✨ **Open source** contributor and advocate for developer-first solutions  
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🏆 Experience
+**7+ Years**
+
+Building consumer & B2B products across multiple industries
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 Expertise
+**Full-Stack**
+
+Frontend, backend, DevOps, and cloud deployment
+
+</td>
+<td width="33%" align="center">
+
+### 👥 Leadership
+**Team Lead**
+
+Code reviews, mentoring, and best practices
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomadicdev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2)
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomadicdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd)
 
 </div>
 
+<br/>
+
 ## 🤝 Open to Opportunities
 
-I'm currently open to:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 💼 Senior/Staff Frontend Engineering and Tech Lead roles
-- 🎯 Contract work on devtools, architecture, or performance optimization
-- 🎤 Speaking engagements on frontend performance and developer experience
-- 🤝 Consulting on scalable application architecture
+### 💼 Full-Time Roles
+- Senior/Staff Frontend Engineer
+- Tech Lead positions
+- Engineering Manager roles
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Contract Work
+- Architecture consulting
+- Performance optimization
+- Developer tools & DX
+- Speaking engagements
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaborations, opportunities, or just to chat about tech!
+<div align="center">
 
-- 🌐 **Portfolio**: [nomadicdev.io](https://nomadicdev.io)
-- 📧 **Email**: [nomadicdev.io@gmail.com](mailto:nomadicdev.io@gmail.com)
-- 💼 **LinkedIn**: [alanshasalim](https://www.linkedin.com/in/alanshasalim/)
-- 📸 **Instagram**: [@nomadicdev.io](https://www.instagram.com/nomadicdev.io/)
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+**Portfolio**
+
+[nomadicdev.io](https://nomadicdev.io)
+
+</td>
+<td align="center" width="25%">
+
+### 📧
+**Email**
+
+[Contact Me](mailto:nomadicdev.io@gmail.com)
+
+</td>
+<td align="center" width="25%">
+
+### 💼
+**LinkedIn**
+
+[alanshasalim](https://www.linkedin.com/in/alanshasalim/)
+
+</td>
+<td align="center" width="25%">
+
+### 📸
+**Instagram**
+
+[@nomadicdev.io](https://www.instagram.com/nomadicdev.io/)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
-  
-### 💭 *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
 
-⭐️ From [nomadicdev-io](https://github.com/nomadicdev-io)
+*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+
+⭐️ From [nomadicdev](https://github.com/nomadicdev)
 
 </div>
