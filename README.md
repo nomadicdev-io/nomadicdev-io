@@ -47,42 +47,6 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 
 <br/>
 
-## 🎯 What I’m Currently Working On
-
-<table>
-  <tr>
-    <td width="50%">
-
-### 🔧 Technical Projects
-
-- 🚀 Building ultra-fast APIs with **Bun.js**
-- 💼 Architecting scalable **B2B SaaS platforms**
-- 🔐 Implementing **microservices architecture**
-- ⚡ Optimizing application performance
-- 🧪 Experimenting with **edge computing**
-  
-    </td>
-    <td width="50%">
-
-### 🌱 Learning & Exploring
-
-- 📚 Advanced **system design patterns**
-- 🦀 Deep diving into **Rust** for performance
-- 🔬 Researching **WebAssembly** applications
-- 🤖 Exploring **AI/ML integration** in apps
-- 📊 **Real-time data processing** at scale
-  
-    </td>
-  </tr>
-
-</table>
-
-<br/> 
-
----
-
-<br/>
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center" width="100%">
