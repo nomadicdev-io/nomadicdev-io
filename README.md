@@ -19,31 +19,27 @@
 
 ## 🚀 About Me
 
-```typescript
-const nomadicDev = {
-    location: "Dubai, United Arab Emirates 🇦🇪",
-    experience: "8+ years",
-    currentFocus: ["Bun.js", "Performative B2B Applications", "Modern Backend Architecture"],
-    passions: ["Coding", "Open Source", "Tech Research", "Travel", "Photography", "Gaming"],
-    motto: "Building fast, scalable solutions while exploring the world 🌍",
-    techPhilosophy: "Performance first, user experience always"
-};
-```
+I'm a **Full-Stack Software Engineer** with over **8 years of professional experience** specializing in building high-performance server, web, and mobile applications. Based in **Dubai, United Arab Emirates**, I work with clients and teams globally to deliver scalable, production-ready solutions.
 
-> 💼 **Current Mission:** Crafting high-performance B2B applications that scale effortlessly  
-> 🔥 **Active Focus:** Deep diving into Bun.js ecosystem and next-gen backend solutions  
-> 🌟 **Open Source:** Contributing to the dev community, one commit at a time
+My passion lies in exploring cutting-edge technologies and contributing to the open-source community. I believe in writing clean, maintainable code that solves real-world problems efficiently.
+
+### 🎯 Current Focus
+- **Bun.js Development:** Leveraging the latest runtime for ultra-fast backend applications
+- **B2B Application Architecture:** Building performative enterprise solutions that scale
+- **Modern Backend Systems:** Implementing microservices, APIs, and cloud-native architectures
+- **Open Source Contributions:** Actively contributing to projects that drive innovation
+
+### 💡 Core Philosophy
+> "Performance first, user experience always" — I prioritize building solutions that are not only technically excellent but also deliver exceptional value to end-users and businesses.
+
+### 🌍 Beyond Development
+When I'm not coding, you'll find me traveling to new destinations, capturing moments through photography, conducting technical research, or competing in gaming. I believe diverse experiences fuel creativity and problem-solving in software development.
+
 
 ## 💻 Tech Stack & Expertise
 
 <div align="center" width="100%">
-<table width="100%">
-<tr>
-    <td width="100%">
-        <img width="100%" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,express,elysia,laravel,appwrite,firebase,supabase,prisma,mongodb,postgres,mysql,redis,sqlite,aws,docker,nginx,nix,linux,ubuntu,prometheus,sentry,wasm,npm,pnpm,gradle,webpack,postman,vscode,github,gitlab,bash,powershell,ps,ai,html,css,sass,less,tailwind,styledcomponents,svg,react,nextjs,astro,gatsby,htmx,jquery,redux,threejs,vite,figma,electron,codepen,apple,windows,swift,kotlin,devto,discord,stackoverflow&theme=dark" />
-    </td>
-</tr>
-</table>
+<img width="100%" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,express,elysia,laravel,appwrite,firebase,supabase,prisma,mongodb,postgres,mysql,redis,sqlite,aws,docker,nginx,nix,linux,ubuntu,prometheus,sentry,wasm,npm,pnpm,gradle,webpack,postman,vscode,github,gitlab,bash,powershell,ps,ai,html,css,sass,less,tailwind,styledcomponents,svg,react,nextjs,astro,gatsby,htmx,jquery,redux,threejs,vite,figma,electron,codepen,apple,windows,swift,kotlin,devto,discord,stackoverflow&theme=dark" />
 </div>
 
 ## 🎯 What I’m Currently Working On
