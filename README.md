@@ -156,19 +156,18 @@ If you have an interesting opportunity or project, feel free to reach out. I'm a
 
 **Preferred Contact:** Email • **Response Time:** Within 24-48 hours
 
-<div align="center">
+<div align="center" width="100%">
 
 <table width="100%">
   <tr>
     <td width="50%">
       <strong>☕ Support My Work</strong><br />
-      If you find my projects helpful, consider buying me a coffee! <br />
-      <a href="https://buymeacoffee.com/nomadicdev" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Hiking" width="80"/></a>
-      <a href="https://ko-fi.com/nomadicdev" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Hiking" width="80"/></a>
+      <a href="https://buymeacoffee.com/nomadicdev" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="20" alt="Buy Me A Coffee"/></a>
+      <a href="https://ko-fi.com/nomadicdev" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="20" /></a>
     </td>
     <td width="50%">
     <strong>👁️ Profile Views</strong><br />
-      <img src="https://komarev.com/ghpvc/?username=nomadicdev-io&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Hiking" width="80"/>
+      <img src="https://komarev.com/ghpvc/?username=nomadicdev-io&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile View" height="20"/>
     </td>
   </tr>
 </table>
