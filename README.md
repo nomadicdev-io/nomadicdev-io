@@ -121,7 +121,7 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 
 Currently open to new opportunities and collaborations. With 8+ years of full-stack development experience, I specialize in building scalable, high-performance applications.
 
-### 🎯 Interested In
+### Interested In
 
 - Full-time positions in backend/full-stack development or architecture roles
 - Contract projects for complex technical challenges
