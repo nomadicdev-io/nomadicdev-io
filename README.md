@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- FUTURISTIC HERO -->
-
-<img src="https://storage.quadbits.app/VGXEQeOnwQKd.png" />
+<div align="center" width="100%">
+<img src="https://storage.quadbits.app/VGXEQeOnwQKd.png" width="100%" />
+</div>
 
 <h3>Senior Software Engineer · Full-Stack · Tech Lead</h3>
 <p><i>Building scalable, high-performance web & mobile systems</i></p>
@@ -35,6 +36,7 @@ const nomadicDev = {
 
 ## 💻 Tech Stack & Expertise
 
+<div align="center" width="100%">
 <table width="100%">
 <tr>
     <td width="100%">
@@ -42,6 +44,7 @@ const nomadicDev = {
     </td>
 </tr>
 </table>
+</div>
 
 ## 🎯 What I’m Currently Working On
 
@@ -98,6 +101,7 @@ const nomadicDev = {
 
 ## 🎨 Beyond Code: My Other Passions
 
+<div align="center" width="100%">
 <table width="100%">
   <tr>
     <td align="center" width="33.33%">
@@ -117,6 +121,7 @@ const nomadicDev = {
     </td>
   </tr>
 </table>
+</div>
 
 
 ## 💼 Open for Opportunities
