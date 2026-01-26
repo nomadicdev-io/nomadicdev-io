@@ -100,20 +100,31 @@ When I'm not coding, you'll find me traveling to new destinations, capturing mom
 <div align="center" width="100%">
 <table width="100%">
   <tr>
-    <td align="center" width="33.33%">
-      <img src="https://img.icons8.com/color/96/000000/camera.png" alt="Photography" width="80"/>
-      <br><b>📸 Photography</b>
-      <br>Capturing moments from around the world
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/airplane-take-off.png" alt="Travel" width="80"/>
+      <br><br>
+      <h3>✈️ Traveling</h3>
+      <p>Exploring new cultures, destinations, and perspectives around the globe. Each journey brings fresh inspiration and broadens my worldview.</p>
     </td>
-    <td align="center" width="33.33%">
-      <img src="https://img.icons8.com/color/96/000000/worldwide-location.png" alt="Travel" width="80"/>
-      <br><b>✈️ Travel</b>
-      <br>Exploring new cultures & destinations
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/camera.png" alt="Photography" width="80"/>
+      <br><br>
+      <h3>📸 Photography</h3>
+      <p>Capturing compelling moments and telling visual stories. From landscapes to street photography, I document my adventures through the lens.</p>
     </td>
-    <td align="center" width="33.33%">
-      <img src="https://img.icons8.com/color/96/000000/controller.png" alt="Gaming" width="80"/>
-      <br><b>🎮 Pro Gaming</b>
-      <br>Competitive gaming & esports
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" alt="Coding" width="80"/>
+      <br><br>
+      <h3>💻 Coding</h3>
+      <p>Building side projects, experimenting with new technologies, and contributing to open source. Coding isn't just work—it's a lifelong passion.</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/000000/trekking.png" alt="Hiking" width="80"/>
+      <br><br>
+      <h3>🥾 Hiking</h3>
+      <p>Connecting with nature and pushing physical limits on mountain trails. Hiking provides clarity, fitness, and unforgettable outdoor experiences.</p>
     </td>
   </tr>
 </table>
@@ -122,26 +133,48 @@ When I'm not coding, you'll find me traveling to new destinations, capturing mom
 
 ## 💼 Open for Opportunities
 
-```javascript
-const opportunities = {
-    openForWork: true,
-    interests: [
-        "Full-time positions",
-        "Contract projects",
-        "Open source collaboration",
-        "Technical consulting",
-        "Speaking engagements"
-    ],
-    expertise: ["Backend Architecture", "B2B SaaS", "Performance Optimization", "Team Leadership"],
-    contactPreference: "email"
-};
+I'm currently open to new opportunities and collaborations. With over 8 years of experience in full-stack development, I bring deep expertise in building scalable, high-performance applications.
 
-// Let's build something amazing together! 🚀
-```
+### 🎯 Areas of Interest
 
------
+- **Full-Time Positions:** Backend, full-stack, or architecture roles in innovative companies
+- **Contract Projects:** Short to medium-term engagements for complex technical challenges
+- **Open Source Collaboration:** Contributing to impactful projects that drive innovation
+- **Technical Consulting:** Architecture design, performance optimization, and code reviews
+- **Speaking Engagements:** Tech talks, workshops, and conference presentations
+
+### 🔧 Key Expertise
+
+- **Backend Architecture:** Designing scalable microservices and API systems
+- **B2B SaaS Development:** Building enterprise-grade applications with complex workflows
+- **Performance Optimization:** Improving application speed, efficiency, and resource utilization
+- **Team Leadership:** Mentoring developers and leading technical initiatives
+
+### 📬 Get In Touch
+
+If you have an interesting opportunity or project, feel free to reach out. I'm always excited to discuss new challenges and potential collaborations.
+
+**Preferred Contact:** Email • **Response Time:** Within 24-48 hours
+
+<div align="center">
 
 ### 👁️ Profile Views
 
 ![Visitors](https://komarev.com/ghpvc/?username=nomadicdev-io&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
+---
+
+### ☕ Support My Work
+
+If you find my projects helpful, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nomadicdev)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nomadicdev)
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**"Code is poetry written in logic. Let's create something beautiful together."** ✨
+
+</div>
