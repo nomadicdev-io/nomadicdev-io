@@ -82,14 +82,14 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/000000/airplane-take-off.png" alt="Travel" width="80"/>
+      <img src="https://storage.quadbits.app/2zzkDDjw7GIN.png" alt="Travel" width="80"/>
       <br/>
       <h3>Traveling</h3>
       <p>Exploring new cultures, destinations, and perspectives around the globe. Each journey brings fresh inspiration and broadens my worldview.</p>
       <br/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/000000/camera.png" alt="Photography" width="80"/>
+      <img src="https://storage.quadbits.app/KIqdMRkEcxWM.png" alt="Photography" width="80"/>
       <br/>
       <h3>Photography</h3>
       <p>Capturing compelling moments and telling visual stories. From landscapes to street photography, I document my adventures through the lens.</p>
@@ -98,17 +98,17 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" alt="Coding" width="80"/>
+      <img src="https://storage.quadbits.app/rqQpaYHjaiUV.png" alt="Coding" width="80"/>
       <br/>
       <h3>Coding</h3>
       <p>Building side projects, experimenting with new technologies, and contributing to open source. Coding isn't just work—it's a lifelong passion.</p>
       <br/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/000000/trekking.png" alt="Hiking" width="80"/>
+      <img src="https://storage.quadbits.app/pgKYso1BBC3H.png" alt="Gaming" width="80"/>
       <br/>
-      <h3>Hiking</h3>
-      <p>Connecting with nature and pushing physical limits on mountain trails. Hiking provides clarity, fitness, and unforgettable outdoor experiences.</p>
+      <h3>Gaming</h3>
+      <p>Exploring virtual worlds and pushing skills to the limit. Gaming delivers challenge, creativity, and immersive experiences that keep the mind sharp.</p>
       <br/>
     </td>
   </tr>
