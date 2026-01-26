@@ -119,28 +119,14 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 
 ## 💼 Open for Opportunities
 
-I'm currently open to new opportunities and collaborations. With over 8 years of experience in full-stack development, I bring deep expertise in building scalable, high-performance applications.
+Currently open to new opportunities and collaborations. With 8+ years of full-stack development experience, I specialize in building scalable, high-performance applications.
 
-### 🎯 Areas of Interest
+### 🎯 Interested In
 
-- **Full-Time Positions:** Backend, full-stack, or architecture roles in innovative companies
-- **Contract Projects:** Short to medium-term engagements for complex technical challenges
-- **Open Source Collaboration:** Contributing to impactful projects that drive innovation
-- **Technical Consulting:** Architecture design, performance optimization, and code reviews
-- **Speaking Engagements:** Tech talks, workshops, and conference presentations
-
-### 🔧 Key Expertise
-
-- **Backend Architecture:** Designing scalable microservices and API systems
-- **B2B SaaS Development:** Building enterprise-grade applications with complex workflows
-- **Performance Optimization:** Improving application speed, efficiency, and resource utilization
-- **Team Leadership:** Mentoring developers and leading technical initiatives
-
-### 📬 Get In Touch
-
-If you have an interesting opportunity or project, feel free to reach out. I'm always excited to discuss new challenges and potential collaborations.
-
-**Preferred Contact:** Email • **Response Time:** Within 24-48 hours
+- Full-time positions in backend/full-stack development or architecture roles
+- Contract projects for complex technical challenges
+- Open source collaboration and technical consulting
+- Speaking engagements and tech workshops
 
 <br/> 
 
@@ -148,14 +134,14 @@ If you have an interesting opportunity or project, feel free to reach out. I'm a
 
 <br/>
    
-<table width="512">
+<table width="512" align="center">
   <tr>
-    <td width="300">
+    <td width="300" align="center">
       <strong width="100%">☕ Support My Work</strong><br />
       <a href="https://buymeacoffee.com/nomadicdev" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="20" alt="Buy Me A Coffee"/></a>
       <a href="https://ko-fi.com/nomadicdev" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="20" /></a>
     </td>
-    <td width="300">
+    <td width="300" align="center">
     <strong width="100%">👁️ Profile Views</strong><br />
       <img src="https://komarev.com/ghpvc/?username=nomadicdev-io&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile View" height="20"/>
     </td>
