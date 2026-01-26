@@ -1,16 +1,17 @@
 <div align="center">
 
-  <!-- Keep your profile banner image -->
+<!-- FUTURISTIC HERO -->
 
-![Profile Banner](your-banner-image-url.png)
+<img src="https://storage.quadbits.app/VGXEQeOnwQKd.png" />
 
-# 👋 Hey there, I’m NomadicDev!
+<h3>Senior Software Engineer · Full-Stack · Tech Lead</h3>
+<p><i>Building scalable, high-performance web & mobile systems</i></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+8%2B+Years+Experience;Building+Performative+B2B+Solutions;Bun.js+Enthusiast+%7C+Open+Source+Contributor;Dubai+Based+%7C+Global+Mindset" alt="Typing SVG" />
+<a href="https://nomadicdev.io"><img src="https://img.shields.io/badge/Portfolio-nomadicdev.io-5C5AFF?style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/alanshasalim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nomadicdev.io@gmail.com"><img src="https://img.shields.io/badge/Email-4CCD99?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/nomadicdev.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
------
+---
 
 ## 🚀 About Me
 
@@ -89,40 +90,6 @@ const nomadicDev = {
 
 -----
 
-## 🏆 Notable Achievements & Highlights
-
-<div align="center">
-
-```text
-🎖️  8+ Years of Professional Development Experience
-🌟  Multiple Open Source Contributions & Projects
-🚀  Specialized in High-Performance B2B Solutions
-🌍  Based in Dubai, Working with Global Teams
-💡  Active Tech Researcher & Innovator
-🎮  Pro Gamer | 📸 Photography Enthusiast
-```
-
-</div>
-
------
-
-## 🌟 Featured Projects & Contributions
-
-<div align="center">
-
-<!-- Add your top repositories here -->
-
-<a href="https://github.com/nomadicdev-io/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadicdev-io&repo=project1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nomadicdev-io/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadicdev-io&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
------
-
 ## 🎨 Beyond Code: My Other Passions
 
 <table>
@@ -144,18 +111,6 @@ const nomadicDev = {
     </td>
   </tr>
 </table>
-
------
-
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-
-- Coming soon! Stay tuned for technical deep-dives and development insights
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More articles…](https://your-blog-url.com)
 
 -----
 
@@ -194,31 +149,7 @@ const opportunities = {
 
 -----
 
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
------
-
 ### 👁️ Profile Views
 
 ![Visitors](https://komarev.com/ghpvc/?username=nomadicdev-io&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
------
-
-### ☕ Support My Work
-
-If you find my projects helpful, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nomadicdev)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nomadicdev)
-
------
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**“Code is poetry written in logic. Let’s create something beautiful together.”** ✨
-
-</div>
