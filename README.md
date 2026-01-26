@@ -71,7 +71,7 @@ const nomadicDev = {
         <img src="https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=gotham&hide_border=true" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
     <tr>
@@ -87,19 +87,19 @@ const nomadicDev = {
 
 ## 🎨 Beyond Code: My Other Passions
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <img src="https://img.icons8.com/color/96/000000/camera.png" alt="Photography" width="80"/>
       <br><b>📸 Photography</b>
       <br>Capturing moments from around the world
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <img src="https://img.icons8.com/color/96/000000/worldwide-location.png" alt="Travel" width="80"/>
       <br><b>✈️ Travel</b>
       <br>Exploring new cultures & destinations
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <img src="https://img.icons8.com/color/96/000000/controller.png" alt="Gaming" width="80"/>
       <br><b>🎮 Pro Gaming</b>
       <br>Competitive gaming & esports
