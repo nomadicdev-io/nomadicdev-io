@@ -17,9 +17,9 @@
 
 </div>
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ## 🚀 About Me
 
@@ -46,9 +46,9 @@ When I'm not coding, you'll find me traveling to new destinations, capturing mom
 <img width="100%" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,express,elysia,laravel,appwrite,firebase,supabase,prisma,mongodb,postgres,mysql,redis,sqlite,aws,docker,nginx,nix,linux,ubuntu,prometheus,sentry,wasm,npm,pnpm,gradle,webpack,postman,vscode,github,gitlab,bash,powershell,ps,ai,html,css,sass,less,tailwind,styledcomponents,svg,react,nextjs,astro,gatsby,htmx,jquery,redux,threejs,vite,figma,electron,codepen,apple,windows,swift,kotlin,devto,discord,stackoverflow&theme=dark" />
 </div>
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ## 🎯 What I’m Currently Working On
 
@@ -80,9 +80,9 @@ When I'm not coding, you'll find me traveling to new destinations, capturing mom
 
 </table>
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ## 📊 GitHub Stats & Activity
 
@@ -107,9 +107,9 @@ When I'm not coding, you'll find me traveling to new destinations, capturing mom
   </table>
 </div>
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ## 🎨 Beyond Code: My Other Passions
 
@@ -146,9 +146,9 @@ When I'm not coding, you'll find me traveling to new destinations, capturing mom
 </table>
 </div>
 
-<br>
+<br/>
 ---
-<br>
+<br/>
 
 ## 💼 Open for Opportunities
 
@@ -175,9 +175,9 @@ If you have an interesting opportunity or project, feel free to reach out. I'm a
 
 **Preferred Contact:** Email • **Response Time:** Within 24-48 hours
 
-<br>
+<br/>
 ---
-<br>
+<br/>
    
 <table width="512">
   <tr>
