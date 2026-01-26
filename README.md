@@ -75,17 +75,24 @@ const nomadicDev = {
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev-io&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomadicdev-io&theme=tokyonight" alt="Productive Time" height="170"/>
-
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev-io&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomadicdev-io&theme=tokyonight" alt="Productive Time" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 -----
