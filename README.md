@@ -10,10 +10,10 @@
 
 <a href="https://nomadicdev.io"><img src="https://img.shields.io/badge/Portfolio-nomadicdev.io-5C5AFF?style=for-the-badge" /></a> 
 <a href="https://www.linkedin.com/in/alanshasalim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:nomadicdev.io@gmail.com"><img src="https://img.shields.io/badge/Email-4CCD99?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="mailto:nomadicdev.io@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://www.instagram.com/nomadicdev.io/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/nomadicdev-io/"><img src="https://img.shields.io/badge/Github-E4405F?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://medium.com/@nomadicdev.io"><img src="https://img.shields.io/badge/Medium-E4405F?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://github.com/nomadicdev-io/"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://medium.com/@nomadicdev.io"><img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 </div>
 
