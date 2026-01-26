@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 ```typescript
@@ -30,15 +28,9 @@ const nomadicDev = {
 > 🔥 **Active Focus:** Deep diving into Bun.js ecosystem and next-gen backend solutions  
 > 🌟 **Open Source:** Contributing to the dev community, one commit at a time
 
------
-
 ## 💻 Tech Stack & Expertise
 
-<details open>
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,express,elysia,laravel,appwrite,firebase,supabase,prisma,mongodb,postgres,mysql,redis,sqlite,aws,docker,nginx,nix,linux,ubuntu,prometheus,sentry,wasm,npm,pnpm,gradle,webpack,postman,vscode,github,gitlab,bash,powershell,ps,ai,html,css,sass,less,tailwind,styledcomponents,svg,react,nextjs,astro,gatsby,htmx,jquery,redux,threejs,vite,figma,electron,codepen,apple,windows,swift,kotlin,devto,discord,stackoverflow&theme=dark" />
-</details>
-
------
 
 ## 🎯 What I’m Currently Working On
 
@@ -70,8 +62,6 @@ const nomadicDev = {
 
 </table>
 
------
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center" width="100%">
@@ -81,7 +71,7 @@ const nomadicDev = {
         <img src="https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=gotham&hide_border=true" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
     <tr>
@@ -94,8 +84,6 @@ const nomadicDev = {
     </tr>
   </table>
 </div>
-
------
 
 ## 🎨 Beyond Code: My Other Passions
 
@@ -119,8 +107,6 @@ const nomadicDev = {
   </tr>
 </table>
 
------
-
 ## 🤝 Let’s Connect & Collaborate
 
 <div align="center">
@@ -132,8 +118,6 @@ const nomadicDev = {
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-username)
 
 </div>
-
------
 
 ## 💼 Open for Opportunities
 
