@@ -142,8 +142,8 @@ Currently open to new opportunities and collaborations. With 8+ years of full-st
   <tr>
     <td width="300" align="center">
       <strong width="100%">☕ Support My Work</strong><br />
-      <a href="[https://buymeacoffee.com/nomadicdev](https://buymeacoffee.com/nomadicdev.io)" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="20" alt="Buy Me A Coffee"/></a>
-      <a href="https://ko-fi.com/nomadicdevio" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="20" /></a>
+      <a href="https://buymeacoffee.com/nomadicdev.io" target="_blank" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="20" alt="Buy Me A Coffee"/></a>
+      <a href="https://ko-fi.com/nomadicdevio" target="_blank" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="20" /></a>
     </td>
     <td width="300" align="center">
     <strong width="100%">👁️ Profile Views</strong><br />
