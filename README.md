@@ -25,7 +25,7 @@
 
 <h2>🚀 About Me</h2>
 
-Full-Stack Software Engineer with **8+ years of experience** specializing in high-performance server, web, and mobile applications. Based in **Dubai, UAE**, delivering scalable, production-ready solutions for global clients.
+Senior Software Engineer with **8+ years of experience** specializing in high-performance server, web, and mobile applications. Based in **Dubai, UAE**, delivering scalable, production-ready solutions for global clients.
 
 **Core Expertise:** Expertise in designing and implementing microservices architecture, robust API development, scalable cloud-native solutions, and advanced performance optimization strategies, all centered on delivering seamless and exceptional user experiences. Key strengths include containerization (e.g., Docker, Kubernetes), RESTful and GraphQL APIs, DevOps practices (CI/CD pipelines), and metrics-driven enhancements for latency reduction, reliability, and scalability.
 
@@ -142,8 +142,8 @@ Currently open to new opportunities and collaborations. With 8+ years of full-st
   <tr>
     <td width="300" align="center">
       <strong width="100%">☕ Support My Work</strong><br />
-      <a href="https://buymeacoffee.com/nomadicdev" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="20" alt="Buy Me A Coffee"/></a>
-      <a href="https://ko-fi.com/nomadicdev" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="20" /></a>
+      <a href="[https://buymeacoffee.com/nomadicdev](https://buymeacoffee.com/nomadicdev.io)" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="20" alt="Buy Me A Coffee"/></a>
+      <a href="https://ko-fi.com/nomadicdevio" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="20" /></a>
     </td>
     <td width="300" align="center">
     <strong width="100%">👁️ Profile Views</strong><br />
