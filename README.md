@@ -91,8 +91,8 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
     <td align="center" width="50%">
       <br/>
       <img src="https://storage.quadbits.app/KIqdMRkEcxWM.png" alt="Photography" width="80"/>
-      <small>Photography</h3>
-      <p>Capturing compelling moments and telling visual stories. From landscapes to street photography, I document my adventures through the lens.</small>
+      <h3>Photography</h3>
+      <small>Capturing compelling moments and telling visual stories. From landscapes to street photography, I document my adventures through the lens.</small>
       <br/>
     </td>
   </tr>
