@@ -23,7 +23,7 @@
 
 <br/>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 Full-Stack Software Engineer with **8+ years of experience** specializing in high-performance server, web, and mobile applications. Based in **Dubai, UAE**, delivering scalable, production-ready solutions for global clients.
 
@@ -35,7 +35,7 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 
 <br/>
 
-## 💻 Tech Stack & Expertise
+<h2>💻 Tech Stack & Expertise</h2>
 
 <div align="center" width="100%">
 <img width="100%" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,express,elysia,laravel,appwrite,firebase,supabase,prisma,mongodb,postgres,mysql,redis,sqlite,aws,docker,nginx,nix,linux,ubuntu,prometheus,sentry,wasm,npm,pnpm,gradle,webpack,postman,vscode,github,gitlab,bash,powershell,ps,ai,html,css,sass,less,tailwind,styledcomponents,svg,react,nextjs,astro,gatsby,htmx,jquery,redux,threejs,vite,figma,electron,codepen,apple,windows,swift,kotlin,devto,discord,stackoverflow&theme=dark" />
@@ -47,7 +47,7 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 
 <br/>
 
-## 📊 GitHub Stats & Activity
+<h2>📊 GitHub Stats & Activity</h2>
 
 <div align="center" width="100%">
   <table width="100%">
@@ -76,36 +76,40 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 
 <br/>
 
-## 🎨 Beyond Code: My Other Passions
+<h2>🎨 Beyond Code: My Other Passions</h2>
 
 <div align="center" width="100%">
 <table width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="https://img.icons8.com/fluency/96/000000/airplane-take-off.png" alt="Travel" width="80"/>
-      <br><br>
-      <h3>✈️ Traveling</h3>
+      <br/>
+      <h3>Traveling</h3>
       <p>Exploring new cultures, destinations, and perspectives around the globe. Each journey brings fresh inspiration and broadens my worldview.</p>
+      <br/>
     </td>
     <td align="center" width="50%">
       <img src="https://img.icons8.com/fluency/96/000000/camera.png" alt="Photography" width="80"/>
-      <br><br>
-      <h3>📸 Photography</h3>
+      <br/>
+      <h3>Photography</h3>
       <p>Capturing compelling moments and telling visual stories. From landscapes to street photography, I document my adventures through the lens.</p>
+      <br/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="https://img.icons8.com/fluency/96/000000/code.png" alt="Coding" width="80"/>
-      <br><br>
-      <h3>💻 Coding</h3>
+      <br/>
+      <h3>Coding</h3>
       <p>Building side projects, experimenting with new technologies, and contributing to open source. Coding isn't just work—it's a lifelong passion.</p>
+      <br/>
     </td>
     <td align="center" width="50%">
       <img src="https://img.icons8.com/fluency/96/000000/trekking.png" alt="Hiking" width="80"/>
-      <br><br>
-      <h3>🥾 Hiking</h3>
+      <br/>
+      <h3>Hiking</h3>
       <p>Connecting with nature and pushing physical limits on mountain trails. Hiking provides clarity, fitness, and unforgettable outdoor experiences.</p>
+      <br/>
     </td>
   </tr>
 </table>
@@ -117,7 +121,7 @@ Full-Stack Software Engineer with **8+ years of experience** specializing in hig
 
 <br/>
 
-## 💼 Open for Opportunities
+<h2>💼 Open for Opportunities</h2>
 
 Currently open to new opportunities and collaborations. With 8+ years of full-stack development experience, I specialize in building scalable, high-performance applications.
 
