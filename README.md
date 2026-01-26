@@ -156,15 +156,19 @@ If you have an interesting opportunity or project, feel free to reach out. I'm a
 
 **Preferred Contact:** Email • **Response Time:** Within 24-48 hours
 
+---
 
+<br>
+<br>
+   
 <table width="512">
   <tr>
-    <td width="50%">
+    <td width="300">
       <strong width="100%">☕ Support My Work</strong><br />
       <a href="https://buymeacoffee.com/nomadicdev" title="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="20" alt="Buy Me A Coffee"/></a>
       <a href="https://ko-fi.com/nomadicdev" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" height="20" /></a>
     </td>
-    <td width="50%">
+    <td width="300">
     <strong width="100%">👁️ Profile Views</strong><br />
       <img src="https://komarev.com/ghpvc/?username=nomadicdev-io&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile View" height="20"/>
     </td>
@@ -172,8 +176,6 @@ If you have an interesting opportunity or project, feel free to reach out. I'm a
 </table>
 
 <div align="center" width="100%">
-
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
