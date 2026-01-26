@@ -40,7 +40,7 @@ const nomadicDev = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,express,elysia,laravel,appwrite,firebase,supabase,prisma,mongodb,postgres,mysql,redis,sqlite,aws,docker,nginx,nix,linux,ubuntu,prometheus,sentry,wasm,npm,pnpm,gradle,webpack,postman,vscode,github,gitlab,bash,powershell,ps,ai,html,css,sass,less,tailwind,styledcomponents,svg,react,nextjs,astro,gatsby,htmx,jquery,redux,reactnative,threejs,vite,figma,electron,electronic,codepen,apple,windows,swift,kotlin,devto,discord,stackoverflow&theme=dark" /><br/> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,docker,aws,git,githubactions,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,express,elysia,laravel,appwrite,firebase,supabase,prisma,mongodb,postgres,mysql,redis,sqlite,aws,docker,nginx,nix,linux,ubuntu,prometheus,sentry,wasm,npm,pnpm,gradle,webpack,postman,vscode,github,gitlab,bash,powershell,ps,ai,html,css,sass,less,tailwind,styledcomponents,svg,react,nextjs,astro,gatsby,htmx,jquery,redux,threejs,vite,figma,electron,codepen,apple,windows,swift,kotlin,devto,discord,stackoverflow&theme=dark" />
 
 </div>
 
