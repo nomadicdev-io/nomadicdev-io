@@ -157,7 +157,7 @@ If you have an interesting opportunity or project, feel free to reach out. I'm a
 **Preferred Contact:** Email • **Response Time:** Within 24-48 hours
 
 
-<table width="100%">
+<table width="512">
   <tr>
     <td width="50%">
       <strong width="100%">☕ Support My Work</strong><br />
