@@ -2,7 +2,7 @@
 
 <!-- FUTURISTIC HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=NomadicDev&fontSize=44&fontColor=ffffff&animation=fadeIn&gradientColors=5C5AFF,4CCD99" />
+<img src="https://storage.quadbits.app/VGXEQeOnwQKd.png" />
 
 <h3>Senior Software Engineer · Full-Stack · Tech Lead</h3>
 <p><i>Building scalable, high-performance web & mobile systems</i></p>
