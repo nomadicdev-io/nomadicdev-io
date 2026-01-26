@@ -2,7 +2,7 @@
 
 <!-- FUTURISTIC HERO -->
 <div align="center" width="100%">
-<img src="https://storage.quadbits.app/VGXEQeOnwQKd.png" width="100%" />
+<img src="https://storage.quadbits.app/dhqv9jQ6Ra6Y.png" width="100%" />
 </div>
 
 <h3>Senior Software Engineer · Full-Stack · Tech Lead</h3>
