@@ -78,18 +78,18 @@ const nomadicDev = {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=nomadicdev-io&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=transparent&hide_border=true" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomadicdev-io&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev-io&theme=transparent&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadicdev-io&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomadicdev-io&theme=transparent" alt="Productive Time" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomadicdev-io&theme=dark" alt="Productive Time" width="100%"/>
       </td>
     </tr>
   </table>
