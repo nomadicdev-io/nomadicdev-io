@@ -6,7 +6,7 @@
 </div>
 
 <h3>Senior Software Engineer · Full-Stack · Tech Lead</h3>
-<p><i>Building scalable, high-performance web & mobile systems</i></p>
+<p><i>Crafting high-performance systems that bridge innovation and reliability across the globe.</i></p>
 
 <a href="https://nomadicdev.io"><img src="https://img.shields.io/badge/Portfolio-nomadicdev.io-5C5AFF?style=for-the-badge" /></a> 
 <a href="https://www.linkedin.com/in/alanshasalim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -25,21 +25,9 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Software Engineer** with over **8 years of professional experience** specializing in building high-performance server, web, and mobile applications. Based in **Dubai, United Arab Emirates**, I work with clients and teams globally to deliver scalable, production-ready solutions.
+Full-Stack Software Engineer with **8+ years of experience** specializing in high-performance server, web, and mobile applications. Based in **Dubai, UAE**, delivering scalable, production-ready solutions for global clients.
 
-My passion lies in exploring cutting-edge technologies and contributing to the open-source community. I believe in writing clean, maintainable code that solves real-world problems efficiently.
-
-### 🎯 Current Focus
-- **Bun.js Development:** Leveraging the latest runtime for ultra-fast backend applications
-- **B2B Application Architecture:** Building performative enterprise solutions that scale
-- **Modern Backend Systems:** Implementing microservices, APIs, and cloud-native architectures
-- **Open Source Contributions:** Actively contributing to projects that drive innovation
-
-### 💡 Core Philosophy
-> "Performance first, user experience always" — I prioritize building solutions that are not only technically excellent but also deliver exceptional value to end-users and businesses.
-
-### 🌍 Beyond Development
-When I'm not coding, you'll find me traveling to new destinations, capturing moments through photography, conducting technical research, or competing in gaming. I believe diverse experiences fuel creativity and problem-solving in software development.
+**Core Expertise:** Expertise in designing and implementing microservices architecture, robust API development, scalable cloud-native solutions, and advanced performance optimization strategies, all centered on delivering seamless and exceptional user experiences. Key strengths include containerization (e.g., Docker, Kubernetes), RESTful and GraphQL APIs, DevOps practices (CI/CD pipelines), and metrics-driven enhancements for latency reduction, reliability, and scalability.
 
 <br/> 
 
@@ -212,8 +200,6 @@ If you have an interesting opportunity or project, feel free to reach out. I'm a
 
 <div align="center" width="100%">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**"Code is poetry written in logic. Let's create something beautiful together."** ✨
+<img src="https://storage.quadbits.app/38aRhTXBdaSs.png" />
 
 </div>
